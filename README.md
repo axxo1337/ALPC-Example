@@ -1,3 +1,6 @@
+PLEASE if you want to star this, start the real author's repository, I forked it only in case his repo is lost.
+Link: https://github.com/DownWithUp/ALPC-Example
+
 # ALPC-Example
 An example of a client and server using Windows' ALPC functions to send and receive data.
 ###
