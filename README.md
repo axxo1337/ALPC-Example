@@ -1,4 +1,4 @@
-PLEASE if you want to star this, start the real author's repository, I forked it only in case his repo is lost.
+PLEASE if you want to star this, star the real author's repository, I forked it only in case his repo is lost.
 Link: https://github.com/DownWithUp/ALPC-Example
 
 # ALPC-Example
